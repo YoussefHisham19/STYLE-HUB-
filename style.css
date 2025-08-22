@@ -37,6 +37,9 @@ article h1{
 .swiper{
     justify-content:center ;
 }
+.swiper-slider{
+margin:1rem
+}
 main {
     text-align:center ;
 }
