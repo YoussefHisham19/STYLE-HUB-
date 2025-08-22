@@ -57,6 +57,7 @@ main h3{
 }
 .details{
     justify-content:center ;
+    width:20rem ;
 }
 details{
     color:#6B4F3A ;
