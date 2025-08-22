@@ -38,7 +38,15 @@ article h1{
     justify-content:center ;
 }
 .swiper-slide{
-margin:1rem
+margin:1rem;
+background:#E8DCC3;
+   width:20rem ;
+      border-radius:1rem  ;
+         text-align:center ;
+         padding:1rem;
+}
+.swiper-slide a{
+
 }
 main {
     text-align:center ;
