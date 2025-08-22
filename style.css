@@ -36,17 +36,8 @@ article h1{
 }
 .swiper{
     justify-content:center ;
-}
-.swiper-slide{
-margin:1rem;
-background:#E8DCC3;
-   width:20rem ;
-      border-radius:1rem  ;
-         text-align:center ;
-         padding:1rem;
-}
-.swiper-slide a{
-
+    align-content:center ;
+    
 }
 main {
     text-align:center ;
@@ -59,6 +50,16 @@ main img{
 main h3{
     border-bottom: 5px #E3C9A6 solid;
     width:20rem ; 
+}
+.swiper-slide{
+    background:#E8DCC3;
+    padding:1rem ;
+}
+.details{
+    justify-content:center ;
+}
+details{
+    color:#6B4F3A ;
 }
 #filterBtns{
    text-align:center ;
